@@ -1,0 +1,27 @@
+{
+  "feature": "simple-chat",
+  "description": "シンプルなチャットアプリ",
+  "created_at": "2026-02-02T00:00:00Z",
+  "updated_at": "2026-02-02T00:00:00Z",
+  "status": "draft",
+  "phase": "tasks-generated",
+  "language": "ja",
+  "metadata": {
+    "version": "1.0.0",
+    "author": "AI-DLC Spec System"
+  },
+  "approvals": {
+    "requirements": {
+      "generated": true,
+      "approved": true
+    },
+    "design": {
+      "generated": true,
+      "approved": true
+    },
+    "tasks": {
+      "generated": true,
+      "approved": false
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "feature": "{{FEATURE_NAME}}",
+  "description": "{{PROJECT_DESCRIPTION}}",
+  "created_at": "{{TIMESTAMP}}",
+  "updated_at": "{{TIMESTAMP}}",
+  "status": "draft",
+  "phase": "requirements",
+  "language": "ja",
+  "metadata": {
+    "version": "1.0.0",
+    "author": "AI-DLC Spec System"
+  }
+}
