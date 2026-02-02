@@ -1,0 +1,2 @@
+# Simple_Chat_App_With_Claude
+Claudeのテストでチャットアプリを作成
